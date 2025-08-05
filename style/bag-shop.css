@@ -1,0 +1,194 @@
+       :root {
+            --nike-orange: #FF6B00;
+            --nike-black: #111;
+            --nike-gray: #F5F5F5;
+            --nike-dark-gray: #757575;
+        }
+        
+        *{
+            user-select: none;
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            color: var(--nike-black);
+            line-height: 1.5;
+        }
+        
+        .container {
+            gap: 50px;
+            display: flex;
+            align-items: start;
+            justify-content: center;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .membership-banner {
+            border: 1px solid #e5e5e5;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .membership-banner h1 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        
+        .membership-banner a {
+            color: var(--nike-orange);
+            font-weight: 700;
+            text-decoration: none;
+        }
+        
+        h2 {
+            font-size: 20px;
+            font-weight: 700;
+            margin: 30px 0 20px 0;
+        }
+        
+        .cart-item {
+            display: flex;
+            gap: 20px;
+            padding: 20px 0;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        
+        .product-image {
+            width: 100px;
+            height: 100px;
+            background-color: #f5f5f5;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .product-image img {
+            max-width: 80%;
+            max-height: 80%;
+        }
+        
+        .product-details {
+            flex: 1;
+        }
+        
+        .product-name {
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+        
+        .product-category, .product-color, .product-size {
+            color: var(--nike-dark-gray);
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        
+        .product-actions {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        
+        .quantity-selector {
+            display: flex;
+            align-items: center;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        
+        .quantity-btn {
+            width: 30px;
+            height: 30px;
+            background: none;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        
+        .quantity-input {
+            width: 40px;
+            text-align: center;
+            border: none;
+            border-left: 1px solid #ddd;
+            border-right: 1px solid #ddd;
+        }
+        
+        .remove-btn {
+            color: var(--nike-dark-gray);
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .store-pickup {
+            padding: 20px 0;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        
+        .store-pickup h3 {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+        
+        .summary {
+            margin-top: 30px;
+        }
+        
+        .promo-code {
+            margin-bottom: 20px;
+        }
+        
+        .price-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        
+        .total-row {
+            font-weight: 700;
+            padding: 15px 0;
+            border-bottom: none;
+        }
+        
+        .checkout-btn {
+            width: 100%;
+            padding: 15px;
+            background-color: var(--nike-black);
+            color: white;
+            border: none;
+            border-radius: 30px;
+            font-weight: 700;
+            font-size: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+        
+        .payment-method {
+            margin-top: 30px;
+        }
+        
+        .payment-method h3 {
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        input[type=number]::-webkit-inner-spin-button,
+        input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+        }
+
+        .disabled-button{
+            pointer-events: none;
+            opacity: 0.5;
+            user-select: none;
+        }

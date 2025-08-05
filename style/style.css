@@ -1,0 +1,128 @@
+        *{
+            box-sizing: border-box;
+            user-select: none;
+        }
+
+        body{
+            flex-direction: column;
+            box-sizing: border-box;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            align-items: center;
+        }
+
+        
+        a, .container_card{
+            color: black;
+            text-decoration: none;
+        }
+
+        body, main{
+            display: flex;
+            justify-content: center;
+        }
+
+        main{
+            align-items: start;
+        }
+
+        .container_card {
+            cursor: pointer;
+            width: 250px;
+            margin: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container_card img.main-image {
+            width: 100%;
+            transition: opacity 0.3s ease;
+        }
+
+        .container_card:hover img.main-image {
+            opacity: 0.9;
+        }
+
+        .container-img_hover {
+            display: none;
+            gap: 5px;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .container_card:hover .container-img_hover {
+            display: flex;
+            align-items: center;
+        }
+
+        .container_card:hover .container_details-hover {
+            display: none;
+        }
+
+        .container-img_hover img {
+            width: 18%;
+            border: 1px solid #eee;
+        }
+
+        .new-release {
+            color: #D33918;
+            font-weight: bold;
+            margin: 10px 0;
+            font-size: 16px;
+        }
+
+        .product-name {
+            font-weight: bold;
+            margin: 5px 0;
+        }
+
+        .product-category, .product-colors {
+            color: #777777;
+            margin: 5px 0;
+            font-size: 16px;
+        }
+
+        .product-price {
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        .more-colors {
+            margin-left: 10px;
+            font-size: 16px;
+            color: #555;
+        }
+
+        header {
+            display: flex;
+            justify-content: flex-end;
+            padding: 20px;
+        }
+        
+        .shopping-bag {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .fa-bag-shopping {
+            font-size: 35px;
+            color: #333;
+        }
+        
+        .counter-shop {
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            height: 20px;
+            position: absolute;
+            top: 18px;
+            right: -3px;
+            font-size: 12px;
+            padding: 3px 3px;
+            background-color: red;
+            border-radius: 100%;
+            color: #fff;
+            text-align: center;
+            min-width: 20px;
+        }

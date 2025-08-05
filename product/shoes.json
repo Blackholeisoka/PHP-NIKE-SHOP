@@ -1,0 +1,67 @@
+{
+  "shoes": [
+    {
+      "name": "Nike Air Max Plus",
+      "price": [189.99, 189.99, 189.99, 189.99, 189.99],
+      "section": "Chaussure pour homme",
+      "description": "Impose ton style avec la Air Max Plus. La cage culte apporte la touche stylée. Le mesh respirant te garde au frais. Et son amorti visible offre le combo parfait entre look edgy et confort.",
+      "best_seller": [false, false, false, false, false],
+      "last_release": [true, false, false, false, false],
+      "reduction": [0, 0, 0, 0, 0],
+      "color": ["Light Orewood Brown/Soft Pearl/Cave Stone/Noir","Blanc/Deep Night/Wild Grape/Blanc","World Indigo/Cave Purple/Noir/World Indigo","Noir/Bright Citron/Soft Pearl/Sanded Purple","Noir/Light Crimson/Noble Red/Noir"],
+      "article": ["DM0032-106","DM0032-105","DM0032-404","DM0032-023","DM0032-021"],
+      "images": [ 
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/25811d76-7a1b-4645-beeb-e4a323e1feb7/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/94d5f2ea-9ac4-4ecd-b96b-3fe6cc46a26f/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8de6c513-d0e1-44a4-aaaf-56af3164cd32/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ae8345c6-818e-4161-8735-1f56fa2f9db9/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a3034275-da4f-4a2e-b253-84d8af058ec7/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/211d57b3-2f54-4520-a125-a06c1197719c/NIKE+AIR+MAX+PLUS.png"],
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/de589c00-e43e-49a7-98b0-957a7d4693f0/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9ba691e-4b19-45c8-8f6d-547da5d74f91/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6442dbc-697c-4192-876f-551290126916/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2b734b23-2f51-43eb-b6fc-e05e63a8bbab/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bb487433-eac3-449e-be50-57e684759249/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e6dfa63b-620c-46c1-ae10-4d05ebee4f8d/NIKE+AIR+MAX+PLUS.png"],
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab2bf20e-049a-4dcf-bdf6-7fcb1a96c211/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e5be58e3-420d-47ea-99e1-8ed0be4e6937/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/141935df-8dfb-47e3-8c06-8844b1fcd784/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aeb78982-7c52-4563-ad03-91904b143827/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/292f6c01-09a9-4e9b-aac4-f5f1d6f05a2a/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/271916ab-4a83-475b-b2a2-9a34aae21799/NIKE+AIR+MAX+PLUS.png"],
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9d8edd93-ee9c-4bae-95ea-64af447e9889/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b11d4e69-98e9-4891-bc47-22dcacf1f3e7/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4d63e751-8d48-4fee-ae90-d4b38b8fce8e/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e52e1f0a-b071-471b-8a06-05b13a1c1ee0/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2b472cfc-b766-4f69-983d-a6f4b9372e0c/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7fb147a-a1b1-43e0-b0bc-4929451f5125/NIKE+AIR+MAX+PLUS.png"],
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0004345f-3767-4f01-85c7-4bf4592fdcaa/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cb9b645b-4d4d-4c63-8987-17bf8e7f4c50/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/381aa2c7-4812-477f-abfb-7648ea49ec7b/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/88c136cb-a851-41b4-9a13-f3fd4da722e9/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/96c348c6-ffbf-4c25-8bce-ad1015de08f0/NIKE+AIR+MAX+PLUS.png", "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a221101a-01c2-4ebb-a645-d638a738dd6b/NIKE+AIR+MAX+PLUS.png"]
+      ],
+      "stock": [
+        [[38.5, true], [39, true], [40, true], [40.5, false], [41, true], [42, true], [42.5, true], [43, true], [44, true], [44.5, true], [45, false], [45.5, true], [46, true], [47, false], [47.5, true], [48.5, true], [49.5, true]],
+        [[38.5, true], [39, true], [40, true], [40.5, true], [41, true], [42, true], [42.5, true], [43, true], [44, true], [44.5, true], [45, true], [45.5, true], [46, true], [47, true], [47.5, true], [48.5, true], [49.5, true]],
+        [[38.5, true], [39, false], [40, false], [40.5, true], [41, true], [42, true], [42.5, true], [43, true], [44, false], [44.5, true], [45, true], [45.5, true], [46, true], [47, true], [47.5, true], [48.5, true], [49.5, true]],
+        [[38.5, true], [39, true], [40, true], [40.5, true], [41, true], [42, true], [42.5, true], [43, true], [44, true], [44.5, true], [45, false], [45.5, false], [46, true], [47, false], [47.5, true], [48.5, true], [49.5, true]],
+        [[38.5, true], [39, true], [40, true], [40.5, true], [41, false], [42, true], [42.5, true], [43, true], [44, true], [44.5, false], [45, true], [45.5, true], [46, true], [47, true], [47.5, false], [48.5, false], [49.5, true]]
+      ]
+    },
+    {
+      "name": "Nike Air Max Plus 3",
+      "price": [189.99, 189.99],
+      "section": "Chaussure pour homme",
+      "description": "La Nike Air Max Plus 3 revisite un modèle emblématique avec des détails en TPU sur l’empeigne pour un look tendance qui rend hommage à l’originale. Grâce à sa technologie Tuned Air, elle reprend le confort exceptionnel qui a fait la renommée de la Air Max Plus.",
+      "best_seller": [true, false],
+      "last_release": [false, false],
+      "reduction": [0, 0],
+      "color": ["Noir/Smoke Grey","Blanc/Vast Grey/Blanc"],
+      "article": ["IF6319-001","CW1417-100"],
+      "images": [
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8eb1d545-0fa1-4919-81d9-349881c6e6bd/NIKE+AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e581a300-4743-49f4-b2f4-89b19eb93825/NIKE+AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6198917-daac-4af3-ba32-43164b5a86c0/NIKE+AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ff5cd547-ccfe-46a2-9951-5ce81132137b/NIKE+AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cdc3d81-9901-493d-876d-d5b4509f5ef5/NIKE+AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3ffccca4-3ffd-4cf1-9789-3f67dfab5142/NIKE+AIR+MAX+PLUS+III.png"],
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-e0d861d0-bee1-4902-9e61-361a3da4fc14/AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-7569fa7f-53a8-4767-a83d-1a70e84b7915/AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-192a2277-b6a2-495b-92ca-38fe76407084/AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-58c6e092-7deb-4d25-8813-e188bf124516/AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-40c02a15-34e8-40ea-88b5-103be1393d40/AIR+MAX+PLUS+III.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-500d79e1-0e3c-479e-8e59-45a03ff018f8/AIR+MAX+PLUS+III.png"]
+      ],
+      "stock": [
+        [[36, false], [36.5, false], [37.5, true], [38, true], [38.5, true], [39, true],[40, true], [40.5, true], [41, true], [42, true], [42.5, true], [43, true],[44, true], [44.5, true], [45, true], [45.5, true], [46, true], [47, true],[47.5, true], [48.5, true], [49.5, true]],
+        [[36, false], [36.5, true], [37.5, true], [38, true], [38.5, true], [39, true],[40, true], [40.5, true], [41, true], [42, true], [42.5, true], [43, true],[44, true], [44.5, true], [45, true], [45.5, true], [46, true], [47, true],[47.5, true], [48.5, true], [49.5, true]]
+      ]
+    },
+    {
+      "name": "Nike Air Max Plus Drift",
+      "price": [154.99, 154.99],
+      "section": "Chaussure pour ado",
+      "description": "Une chaussure aussi robuste qu'elle en a l'air. Reprenant l'éclat du modèle d'origine, cette chaussure revisite la Nike Air Max Plus avec une cage en caoutchouc résistante, pour jouer toute la journée. Bien sûr, on a conservé la légendaire technologie Tuned Air, pour un amorti qui a fait ses preuves.",
+      "best_seller": [false, false],
+      "last_release": [false, false],
+      "reduction": [34, 0],
+      "color": ["Noir/Noir/Anthracite/Noir","Anthracite/Noir/University Gold"],
+      "article": ["FV5921-002","FV5921-003"],
+      "images": [
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/00e15eda-368f-451f-b14b-b7eca6383cac/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/43bab9f1-c087-46b2-b187-d96b8ea1f8be/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f49e000f-36c8-45b2-a432-ea3ed28be211/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a6ae99bb-c0af-46e6-8d35-9ed0ae8a4bb3/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1238c3c8-294d-4016-924d-f18c1d729e50/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac1df4c7-6415-469d-a448-51ce77c8a590/AIR+MAX+PLUS+DRIFT+%28GS%29.png"],
+        ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dddc852d-d5fc-4e17-8559-8347911caaf6/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0cc5b5e8-a853-4daf-89c2-84ff18766fd6/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d1b17b8d-24e2-4cf1-97a4-3cf2b9e35f94/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5cdb0a38-1b5e-4f5d-ac0c-69e0e3c54415/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f4b988a4-48f8-4ff5-8df2-24c484850c9b/AIR+MAX+PLUS+DRIFT+%28GS%29.png","https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e7826084-8197-4eec-bbc4-e78fecbc7afc/AIR+MAX+PLUS+DRIFT+%28GS%29.png"]
+      ],
+      "stock": [
+        [[35.5, false], [36, true], [36.5, true], [37.5, true],[38, true], [38.5, true], [39, true], [40, false]],
+        [[35.5, false], [36, true], [36.5, false], [37.5, true],[38, true], [38.5, true], [39, true], [40, true]]
+      ]
+    }
+  ]
+}
